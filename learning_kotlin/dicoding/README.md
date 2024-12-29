@@ -13,6 +13,10 @@ Belajar Membuat Aplikasi Android untuk Pemula
 
 # Intent
 
+Dicoding IDCamp 2024  
+Class: Android Developer  
+Belajar Membuat Aplikasi Android untuk Pemula  
+
 ## Latihan Intent
 
 <div style="display: flex; justify-content: space-between;">
