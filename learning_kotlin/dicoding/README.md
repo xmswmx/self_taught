@@ -17,7 +17,7 @@ Dicoding IDCamp 2024
 Class: Android Developer  
 Belajar Membuat Aplikasi Android untuk Pemula  
 
-## Latihan Intent
+## Latihan Explicit Intent
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/xmswmx/self_taught/blob/main/learning_kotlin/dicoding/Screenshot_20241229_204749.png" width="45%" />
