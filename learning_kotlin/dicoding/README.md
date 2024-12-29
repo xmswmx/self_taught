@@ -1,7 +1,7 @@
 # Latihan Activity
 
 Dicoding IDCamp 2024  
-Kelas: Android Developer  
+Class: Android Developer  
 Belajar Membuat Aplikasi Android untuk Pemula  
 Latihan Activity
 
